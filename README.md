@@ -2,7 +2,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
-[!https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](binuathif@gmail.com)
+[!https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white][binuathif@gmail.com]
 
 
 ## I'm a Self-Thought Mern Stack Developer!!
