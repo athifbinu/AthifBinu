@@ -1,10 +1,8 @@
 # Hi there, I'm Athif Binu 👋 
 
-<!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube] -->
-[![Website](https://img.shields.io/website?Conect Me)](https://athifbinu.github.io/loging.page/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://https://dev.to//intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
-
+[!https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](binuathif@gmail.com)
 
 
 ## I'm a Self-Thought Mern Stack Developer!!
