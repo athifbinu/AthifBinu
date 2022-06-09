@@ -8,11 +8,11 @@
 ## I'm a Self-Thought Mern Stack Developer!!
 
 - 🔭 Check My Website: [https://athifbinu.github.io/loging.page/!]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate In Opensource Projects
-- 🥅 2022 Goals: Learn more In Mern stack
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 ui/Ux Desighning
+- 🌱 Visual Ui/Ux Designing 
+- 👯 Open Source Lover
+- 🥅 2022 Goals: Learn More About To My Stack
+- ⚡ Frelancer
+- 😻 Node js , React , MongoDB & JavaScript
 
 <!-- ### Connect with me: -->
 
