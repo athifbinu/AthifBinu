@@ -7,7 +7,7 @@
 
 ## I'm a Self-Thought Mern Stack Developer!!
 
-- 🔭 Check My Website: [https://athifbinu.github.io/loging.page/!]!
+- 🔭 Check My Website: [https://athifbinu.github.io/personel-portfolio/]!
 - 🌱 Visual Ui/Ux Designing 
 - 👯 Open Source Lover
 - 🥅 2022 Goals: Learn More About To My Stack
