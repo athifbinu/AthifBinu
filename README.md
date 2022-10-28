@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Athif</h1>
-<h3 align="center">A I am a Passionate self Learned Mern Stack Developer from India</h3>
+<h3 align="center">A passionate Mern developer from India</h3>
 
- <img src="https://media3.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif?cid=ecf05e47j8ducyqmo7w0i9lufrqxj5x0nrrqhu7k8jpl5n04&rid=giphy.gif&ct=g" alt="">
+<p align='center'>
+    <img src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athifbinu&label=Profile%20views&color=0e75b6&style=flat" alt="athifbinu" /> </p>
@@ -10,7 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/athif_binu" target="blank"><img src="https://img.shields.io/twitter/follow/athif_binu?logo=twitter&style=for-the-badge" alt="athif_binu" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React js And Node js**
+
+- 👨‍💻 All of my projects are available at [https://athifbinu.github.io/personel-portfolio/](https://athifbinu.github.io/personel-portfolio/)
 
 - 💬 Ask me about **Mern stack**
 
