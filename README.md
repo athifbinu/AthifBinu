@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Athif</h1>
-<h3 align="center">A passionate Mern developer from India</h3>
+<h3 align="center">A I am a Passionate self Learned Mern Stack Developer from India</h3>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/TFPdmm3rdzeZ0kP3zG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG">via GIPHY</a></p>
+ <img src="https://media3.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif?cid=ecf05e47j8ducyqmo7w0i9lufrqxj5x0nrrqhu7k8jpl5n04&rid=giphy.gif&ct=g" alt="">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athifbinu&label=Profile%20views&color=0e75b6&style=flat" alt="athifbinu" /> </p>
