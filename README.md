@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Mern developer from India</h3>
 
 <p align='center'>
-    <img src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+    <img src="https://www.lambdatest.com/resources/images/news24.gif">
 </p>
 
 
