@@ -40,5 +40,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athifbinu&" alt="athifbinu" /></p>
 
 
-<a href="https://github.com/athifbinu"> <img src="https://activity-graph.herokuapp.com/graph?username=athifbinu-C2508&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph%22%20alt=%22GitHub%20Commits%20Graph"/>
+<a href="https://github.com/athifbinu"><img src="https://activity-graph.herokuapp.com/graph?username=ganudoomer&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
