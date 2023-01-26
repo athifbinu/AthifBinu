@@ -45,7 +45,7 @@
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athifbinu&" alt="athifbinu" /></p>
 
-<br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athifbinu&show_icons=true&locale=en" alt="athifbinu" /></p>
 
