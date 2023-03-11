@@ -15,11 +15,11 @@
 
 - 🌱 I’m currently learning **Mern Stack **
 
-- 👨‍💻 All of my projects are available at [https://athifbinu.github.io/personel-portfolio/](https://athifbinu.github.io/personel-portfolio/)
+- 👨‍💻 My Portfolio WebSite at 😇 (https://athif-binu.netlify.app)
 
 - 📝 I regularly write articles on [https://dev.to/athifbinu](https://dev.to/athifbinu)
 
-- 💬 Ask me about **Mern stack**
+- 💬 Ask me about  Mern stack
 
 - 📫 How to reach me **binuathif@gmail.com**
 
