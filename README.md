@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/athif_binu" target="blank"><img src="https://img.shields.io/twitter/follow/athif_binu?logo=twitter&style=for-the-badge" alt="athif_binu" /></a> </p>
 
-- 🌱 I’m currently learning **Mern Stack **
+- 🌱 I’m currently learning Mern Stack 
 
 - 👨‍💻 My Portfolio WebSite at 😇 =>  https://portfolio-website-alpha-three.vercel.app/
 
