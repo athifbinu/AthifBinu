@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning Mern Stack 
 
-- 👨‍💻 My Portfolio WebSite at 😇 =>  https://portfolio-website-alpha-three.vercel.app/
+- 👨‍💻 My Portfolio Website   https://portfolio-website-alpha-three.vercel.app/
 
 - 📝 I regularly write articles on [https://dev.to/athifbinu](https://dev.to/athifbinu)
 
